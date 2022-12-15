@@ -17,9 +17,6 @@ import jeju7 from 'public/photos/jeju7.jpeg';
 import jeju8 from 'public/photos/jeju8.jpeg';
 import jeju9 from 'public/photos/jeju9.jpeg';
 import jeju10 from 'public/photos/jeju10.jpeg';
-import jeju11 from 'public/photos/jeju11.jpeg';
-import jeju12 from 'public/photos/jeju12.jpeg';
-import jeju14 from 'public/photos/jeju14.jpeg';
 
 export const STUDIO_PICS = [
   studio1,
@@ -42,7 +39,4 @@ export const JEJU_PICS = [
   jeju8,
   jeju9,
   jeju10,
-  jeju11,
-  jeju12,
-  jeju14,
 ];
