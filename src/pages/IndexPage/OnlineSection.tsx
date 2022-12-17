@@ -21,7 +21,6 @@ const OnlineSection = () => {
           저희도 나중에 돌려보며 재밌게 댓글을 읽고 싶어요!
         </p>
       </div>
-      <YoutubeButton />
     </Section>
   );
 };

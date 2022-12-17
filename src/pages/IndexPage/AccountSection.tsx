@@ -8,7 +8,7 @@ const AccountSection = () => {
   return (
     <Section backgroundColor={COLORS.highlight2} title="멀리서 마음 전하기">
       <Collapsible
-        title="신부측 계좌번호 보기"
+        title="신랑측 계좌번호 보기"
         contents={
           <div>
             <CopyInfo />
@@ -26,7 +26,7 @@ const AccountSection = () => {
         }
       />
       <Collapsible
-        title="신랑측 계좌번호 보기"
+        title="신부측 계좌번호 보기"
         contents={
           <div>
             <CopyInfo />

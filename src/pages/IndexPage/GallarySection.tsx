@@ -15,14 +15,7 @@ const GallarySection = () => {
   return (
     <Section backgroundColor={COLORS.highlight3} title={`사진 구경하기`}>
       <Heading>
-        <a
-          href="https://www.instagram.com/studiopeople.kr.self/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          셀프스튜디오
-        </a>
-        에서 20분 컷으로 찍은 사진이에요.
+        셀프 촬영사진
       </Heading>
       <VerticalCarousel
         images={STUDIO_PICS}
@@ -30,27 +23,11 @@ const GallarySection = () => {
         showSmallerImageOnMobile={true}
       />
       <Heading style={{ marginTop: 48 }}>
-        오랜 동료{' '}
-        <a
-          href="https://www.instagram.com/20_moments/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          영진님
-        </a>
-        이 제주도에서 찍어준 사진이에요.
+        창경궁에서 한복입고 찍은 사진
       </Heading>
       <VerticalCarousel alt="제주도 웨딩 사진" images={JEJU_PICS} />
       <Heading style={{ marginTop: 48 }}>
-        곧 제주에서 웨딩영상 브랜드를 런칭할{' '}
-        <a
-          href="https://www.instagram.com/imd.film/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          대혁님
-        </a>
-        이 찍어준 영상이에요.
+        촬영 비하인드
       </Heading>
 
       <YouTubeEmbed />

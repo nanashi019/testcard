@@ -6,11 +6,11 @@ const SplashSection = () => {
     <div style={{ height: '100vh', color: 'white' }}>
       <JejuVideo />
       <FlexContainer>
-        <MainHeading>유림, 기효 결혼해요!</MainHeading>
+        <MainHeading>승진, 미영 결혼해요!</MainHeading>
         <div>
-          2022년 9월 17일 토요일 낮 12시
+          2023년 3월 18일 토요일 오후 3시
           <br />
-          네이버 1784 신사옥
+          부천역 채림웨딩홀
         </div>
         <HorizontalLine style={{ marginTop: '5vh' }} />
       </FlexContainer>

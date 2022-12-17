@@ -5,20 +5,20 @@ import { GREYS } from 'src/assets/theme';
 const TimelineSection = () => {
   return (
     <Footer>
-      <h3>CREDITS</h3>
+      <h3></h3>
       <table>
         <tbody>
           <tr>
-            <td>디자인</td>
-            <td>정윤지</td>
+            <td></td>
+            <td></td>
           </tr>
           <tr>
-            <td>개발</td>
-            <td>진유림, 장기효</td>
+            <td></td>
+            <td></td>
           </tr>
           <tr>
-            <td>일러스트</td>
-            <td>진유림</td>
+            <td></td>
+            <td></td>
           </tr>
         </tbody>
       </table>
