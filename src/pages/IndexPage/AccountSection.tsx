@@ -13,7 +13,7 @@ const AccountSection = () => {
           <div>
             <CopyInfo />
             <Acocunt
-              bankName="하나은행"
+              bankName="국민은행"
               accountNo="742-910051-74007"
               name="진유림"
             />

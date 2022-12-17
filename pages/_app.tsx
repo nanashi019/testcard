@@ -6,28 +6,28 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <div>
       <Head>
-        <title>유림, 기효 결혼해요</title>
+        <title>승진, 미영 결혼해요</title>
         <meta
           name="description"
-          content="9월 17일 토요일 12시, 네이버 1784사옥 28층 스카이홀"
+          content="3월 18일 토요일 오후 3시, 부천역 채림웨딩홀"
         />
         {/* open graph */}
-        <meta property="og:title" content="유림, 기효 결혼해요" />
+        <meta property="og:title" content="승진, 미영 결혼해요" />
         <meta
           property="og:description"
-          content="9월 17일 토요일 12시, 네이버 1784사옥 28층 스카이홀"
+          content="3월 18일 토요일 오후 3시, 부천역 채림웨딩홀"
         />
         <meta property="og:image" content="./meta.png" />
         <meta
           property="og:url"
-          content="https://yurim-josh-wedding-card.vercel.app/"
+          content="https://testcard-eight.vercel.app/"
         />
         {/* twitter open graph */}
-        <meta name="twitter:title" content="유림, 기효 결혼해요" />
+        <meta name="twitter:title" content="승진, 미영 결혼해요" />
         <meta name="twitter:image" content="./meta.png" />
         <meta
           name="twitter:url"
-          content="https://yurim-josh-wedding-card.vercel.app/"
+          content="https://testcard-eight.vercel.app/"
         />
         <link rel="icon" href="/favicon.ico" />
         <script
