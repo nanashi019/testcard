@@ -27,23 +27,13 @@ const GallarySection = () => {
       </Heading>
       <VerticalCarousel alt="제주도 웨딩 사진" images={JEJU_PICS} />
       <Heading style={{ marginTop: 48 }}>
-        촬영 비하인드
+
       </Heading>
 
-      <YouTubeEmbed />
+
     </Section>
   );
 };
 
-const YouTubeEmbed = () => (
-  <iframe
-    width="100%"
-    height="315"
-    src="https://www.youtube.com/embed/SVtq2m0853s?controls=0&amp;autoplay=1&amp;mute=1"
-    title="YouTube video player"
-    frameBorder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowFullScreen
-  ></iframe>
-);
+
 export default GallarySection;
