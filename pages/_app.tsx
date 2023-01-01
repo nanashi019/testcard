@@ -29,7 +29,7 @@ function App({ Component, pageProps }: AppProps) {
           name="twitter:url"
           content="https://testcard-eight.vercel.app/"
         />
-        <link rel="icon" href="./public/favicon.ico" />
+        <link rel="icon" href="../favicon.ico" />
         <script
           className="daum_roughmap_loader_script"
           src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"
